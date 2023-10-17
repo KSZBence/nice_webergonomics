@@ -1,0 +1,19 @@
+.valid{
+    color: green;
+}
+
+.invalid{
+    color: red;
+}
+
+.elrejt{
+    display: none;
+}
+
+body{
+    height: 50vh;
+}
+
+.urlap{
+    height: 50vw;
+}
